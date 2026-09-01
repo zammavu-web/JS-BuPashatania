@@ -1,0 +1,4 @@
+"Kapan sebaiknya menggunakan for atau while?";
+
+"For digunakan saat jumlah perulangan sudah dipastikan";
+"While digunakan saat jumlah bilangan yang fluktuatif ataupun pada kondisi dinamis";
