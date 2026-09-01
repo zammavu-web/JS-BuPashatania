@@ -1,0 +1,3 @@
+"Inisialisasi berfungsi untuk membuat dan menentukan nilai awal untuk variabel penghitung. (counter)";
+"Kondisi berfungsi menjadi syarat penentu apakah perulangan boleh berjalan atau harus berhenti.";
+"Increment atau Decrement berfungsi untuk mengubah (menambah atau mengurangi) nilai variabel penghitung setelah setiap kali satu putaran selesai dijalankan.
